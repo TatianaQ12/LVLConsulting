@@ -1,1 +1,3 @@
-console.log("Hola mundo");
+Commands: 
+npm install
+npm run dev
